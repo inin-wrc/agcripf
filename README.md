@@ -7,8 +7,9 @@
 ## Simulation Setup
 
 ## Demo
-<img src="Gifs/task1_far.gif" width="30%"> 
-<img src="Gifs/task1_ours.gif" width="30%"> 
-<img src="Gifs/task1_zhang.gif" width="30%">
-
+<p float="left">
+  <img src="Gifs/task1_far.gif" width="30%" />
+  <img src="Gifs/task1_far.gif" width="30%" />
+  <img src="Gifs/task1_far.gif" width="30%" />
+</p>
 # Real-world Experiments
