@@ -8,7 +8,7 @@
 
 ## Demo
 <p float="left">
-  <img src="Gifs/task1_far.gif" width="30%" />
+  <img src="https://github.com/inin-wrc/agcripf/blob/main/Images/system-framework.png" width="30%" />
   <img src="Gifs/task1_zhang.gif" width="30%" />
   <img src="Gifs/task1_ours.gif" width="30%" />
 </p>
