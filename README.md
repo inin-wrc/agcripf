@@ -1,1 +1,1 @@
-# risk-inspired aerial-ground collaborative path finding in unknown off-road environments
+# Risk-inspired Aerial-ground Collaborative Path Finding in Unknown Off-road Environments
