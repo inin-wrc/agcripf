@@ -6,6 +6,6 @@
 # Simulation Experiments
 ## Simulation Setup
 
-## Demon
+## Demo
 
 # Real-world Experiments
