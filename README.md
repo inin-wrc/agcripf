@@ -8,9 +8,9 @@
 
 ## Demo
 <p float="left">
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_far.gif"  />
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_zhang.gif"  />
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_ours.gif"  />
+  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_far.gif" width="30%" />
+  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_zhang.gif" width="30%" />
+  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_ours.gif" width="30%" />
 </p>
 
 # Real-world Experiments
