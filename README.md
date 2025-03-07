@@ -1,4 +1,5 @@
 # Risk-inspired Aerial-ground Collaborative Path Finding in Unknown Off-road Environments
+Path finding is a crucial but challenging task for Unmanned Ground Vehicles (UGV) in unknown off-road environments due to the limited sensing range and complex terrain features, making the UGV’s exploration process inefficient and dangerous. To solve this problem, an Unmanned Aerial Vehicle (UAV) is used as a online pioneer to help the UGV avoid terrain risks and improve the efficiency of its path finding in unknown off-road environments in our work. Specifically, the UAV obtain broad terrain risk information from a bird's eye view. The aerial risk map is periodically matched with the UGV's local map and used to find a reference path. To avoid local optimality of exploration, a target checking mechanism triggered by map entropy and moving distance of the UAV is introduced. With the generated reference path, the UGV gets safe and feasible path through local dynamic trajectory optimization. 
 
 # System Overview
 ![System Overview](https://github.com/inin-wrc/agcripf/blob/main/Images/system-framework.png)
