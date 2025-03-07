@@ -7,11 +7,12 @@
 ## Simulation Setup
 
 ## Demo
-![demo1](https://github.com/inin-wrc/agcripf/blob/main/Gifs/ours.gif)
 <p>
-  <img src="Gifs/ours" alt="ours" width="30%" />
-  <img src="Gifs/ours" alt="ours" width="30%" />
-  <img src="Gifs/ours" alt="ours" width="30%" />
+  <img src="Gifs/ours.gif" alt="ours" width="30%" />
+  <img src="Gifs/ours.gif" alt="ours" width="30%" />
+  <img src="Gifs/ours.gif" alt="ours" width="30%" />
 </p>
+
+
 
 # Real-world Experiments
