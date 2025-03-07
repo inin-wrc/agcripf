@@ -8,7 +8,7 @@
 
 ## Demo
 <p>
-  <img src="Gifs/task1_far.gif" alt="far" caption="far" width="30%" />
+  <img src="Gifs/FAR.gif" alt="far" caption="far" width="30%" />
   <img src="Gifs/Zhang.gif" alt="zhang" width="30%" />
   <img src="Gifs/ours.gif" alt="ours" width="30%" />
 </p>
