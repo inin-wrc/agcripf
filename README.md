@@ -24,12 +24,13 @@ The UAV model was an open-source model called iris and was equppied with a downw
 </p>
 
 ## Demo
+(1)
 <p>
   <img src="Gifs/FAR.gif" alt="far"  width="30%" />
   <img src="Gifs/Zhang.gif" alt="zhang" width="30%" />
   <img src="Gifs/ours.gif" alt="ours" width="30%" />
 </p>
-
+(2)
 
 
 # Real-world Experiments
