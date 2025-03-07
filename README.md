@@ -7,6 +7,6 @@
 ## Simulation Setup
 
 ## Demo
-![demo1](https://github.com/inin-wrc/agcripf/blob/main/Images/system-framework.png)
+![demo1](https://github.com/inin-wrc/agcripf/blob/main/Gifs/ours.gif)
 
 # Real-world Experiments
