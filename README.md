@@ -50,6 +50,7 @@ The UAV was equipped with a NVIDIA Jetson Xavier NX and a downward Livox-mid360 
 ## Real-world Test
 <p>
   <img src="Gifs/real-world-single-ugv.gif" alt="zhang" width="45%" />
+  <img src="Gifs/real-ugv-result.gif" alt="our" width="42.5%" />
 </p>
 
 <p>
