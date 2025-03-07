@@ -16,3 +16,8 @@
 
 
 # Real-world Experiments
+## Hardware Setup
+<p>
+  <img src="Images/ugv-real.png" alt="ugv" caption="far" width="50%" />
+  <img src="Images/uav-real.png" alt="uav" width="50%" />
+</p>
