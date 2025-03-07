@@ -41,6 +41,7 @@ The UAV model was an open-source model called iris and was equppied with a downw
 
 # Real-world Experiments
 ## Hardware Setup
+The UAV was equipped with a NVIDIA Jetson Xavier NX and a downward Livox-mid360 solid-state LiDAR. The data rate of the LiDAR was set to 10Hz for aerial terrain risk mapping. The UGV was equipped with the NVIDIA Jetson AGX Xavier, a 3D Velodyne-16 LiDAR with 10 Hz and an IMU with 400Hz measurements. Long range Wi-Fi was applied to establish the communication between the robots. 
 <p>
   <img src="Images/ugv-real.png" alt="ugv" width="32%" />
   <img src="Images/uav-real.png" alt="uav" width="30%" />
