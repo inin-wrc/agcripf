@@ -7,10 +7,6 @@
 ## Simulation Setup
 
 ## Demo
-<p float="left">
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/ours.gif"  width="30%" />
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/task1_zhang.gif" width="30%" />
-  <img src="https://github.com/inin-wrc/agcripf/blob/main/Gifs/ours.gif" width="30%" />
-</p>
+![demo1](https://github.com/inin-wrc/agcripf/blob/main/Images/system-framework.png)
 
 # Real-world Experiments
